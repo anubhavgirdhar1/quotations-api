@@ -1,0 +1,3 @@
+provider = "groq"
+model = "llama-3.3-70b-versatile"
+cache_setting = False
